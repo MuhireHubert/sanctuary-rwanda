@@ -187,6 +187,18 @@
     "original": "https://www.mereduverbehotel.rw/assets/img/about/photo-01.jpg"
   },
   {
+    "property": "Pères Carmes Déchaux — Maison d’accueil",
+    "file": "assets/5faa92625028ddf7.jpg",
+    "source": "https://misjekarmel.pl/pl/placowki-misyjne/rwanda-placowki-misyjne/butare/",
+    "original": "https://misjekarmel.pl/wp-content/uploads/2017/01/2013-03-21_192552-300x225.jpg"
+  },
+  {
+    "property": "Pères Carmes Déchaux — Maison d’accueil",
+    "file": "assets/b4f0c902f29131d7.jpg",
+    "source": "https://misjekarmel.pl/pl/placowki-misyjne/rwanda-placowki-misyjne/butare/",
+    "original": "https://misjekarmel.pl/wp-content/uploads/2017/01/2013-03-21_192634-300x225.jpg"
+  },
+  {
     "property": "Nemba Hospital",
     "file": "assets/property-1f26f6e35b43.jpg",
     "source": "https://www.nembahospital.rw/",
@@ -199,16 +211,94 @@
     "original": "https://www.nembahospital.rw/fileadmin/user_upload/Hospital_nemba/Background_Images/Nemba1.jpg"
   },
   {
+    "property": "Gakoma Hospital",
+    "file": "assets/d78144b850602837.jpg",
+    "source": "https://x.com/GakomaHospital",
+    "original": "https://pbs.twimg.com/profile_images/2069845569435009024/nzb6BVRW_400x400.jpg"
+  },
+  {
+    "property": "Murunda Hospital",
+    "file": "assets/0c0f3d13c9f5d95f.jpg",
+    "source": "https://x.com/MurundaHospital/status/1788595876727791652",
+    "original": "https://pbs.twimg.com/media/GNJeKjBWQAEiQRA.jpg"
+  },
+  {
+    "property": "Mibilizi Hospital",
+    "file": "assets/4d714c9b1e495f88.jpg",
+    "source": "https://mibilizihospital.prod.risa.rw/",
+    "original": "https://mibilizihospital.prod.risa.rw/fileadmin/user_upload/Hospital_Mibilizi/Background_Images/Mibilizi_in_2.jpeg"
+  },
+  {
+    "property": "Kiziguro Hospital",
+    "file": "assets/31f0ede7fc583f69.jpg",
+    "source": "https://www.kizigurohospital.rw/",
+    "original": "https://www.kizigurohospital.rw/fileadmin/user_upload/Hospital_Kiziguro/Background_images/IMG_6371.JPG"
+  },
+  {
+    "property": "Kiziguro Hospital",
+    "file": "assets/b27603217a73805d.jpg",
+    "source": "https://www.kizigurohospital.rw/",
+    "original": "https://www.kizigurohospital.rw/fileadmin/user_upload/Hospital_Kiziguro/Background_images/IMG_6374.JPG"
+  },
+  {
+    "property": "Kiziguro Hospital",
+    "file": "assets/73ce69e73b8b6743.jpg",
+    "source": "https://www.kizigurohospital.rw/",
+    "original": "https://www.kizigurohospital.rw/fileadmin/user_upload/Hospital_Kiziguro/Background_images/IMG_6375.JPG"
+  },
+  {
     "property": "Ndera Neuropsychiatric Hospital",
     "file": "assets/property-4510b1a53e42.jpg",
     "source": "https://www.nderahospital.rw/overview",
     "original": "https://www.nderahospital.rw/fileadmin/user_upload/Hospital_Caraes_Ndera/Background_Images/NPH_CARAES_Ndera.jpg"
   },
   {
+    "property": "Rilima Paediatric Orthopaedic Surgery and Rehabilitation Hospital",
+    "file": "assets/f344a37b2ac9cea1.jpg",
+    "source": "https://rilimaorthopaedic.rw/",
+    "original": "https://rilimaorthopaedic.rw/wp-content/uploads/2026/08/0N5A3903-420x280.jpg"
+  },
+  {
+    "property": "Kabgayi Level Two Teaching Hospital",
+    "file": "assets/2d05eceeea54e50d.jpg",
+    "source": "https://www.kabgayihospital.rw/",
+    "original": "https://www.kabgayihospital.rw/fileadmin/_processed_/e/3/csm_KABGAYI_BACKGROUND_e4253eb3fb.jpg"
+  },
+  {
+    "property": "Catholic University of Rwanda",
+    "file": "assets/e8f288ae46a4965f.jpg",
+    "source": "https://cur.ac.rw/curCampuses",
+    "original": "https://cur.ac.rw/img/tabaCampus.jpg"
+  },
+  {
+    "property": "Institut Catholique de Kabgayi",
+    "file": "assets/a1c012f960cb87bd.jpg",
+    "source": "https://x.com/ICKKabgayi/status/1780185933385449805",
+    "original": "https://pbs.twimg.com/media/GLR9VsJXMAEwnEJ.jpg"
+  },
+  {
+    "property": "INES-Ruhengeri",
+    "file": "assets/2515c969b9717265.jpg",
+    "source": "https://www.ines.ac.rw/ams/",
+    "original": "https://www.ines.ac.rw/static/ams/image/about/g.jpg"
+  },
+  {
+    "property": "Ecole Secondaire Sancta Maria de Karambo",
+    "file": "assets/2cae87901affd2dc.jpg",
+    "source": "https://www.byumbadiocese.org/work/ecole-secondaire-sancta-maria-de-karambo",
+    "original": "https://www.byumbadiocese.org/storage/app/uploads/public/643/3cb/c5c/6433cbc5c1935918421279.jpg"
+  },
+  {
     "property": "Collegio Santo Antonio Maria Zaccaria TVET School",
     "file": "assets/property-b6394d59ad33.jpg",
     "source": "https://www.byumbadiocese.org/work/collegio-santo-antonio-maria-zaccaria-tvet-school-de-muhura",
     "original": "https://www.byumbadiocese.org/storage/app/uploads/public/643/3d9/9b0/6433d99b04d7e743306984.jpeg"
+  },
+  {
+    "property": "Petit Séminaire Saint Dominique Savio de Rwesero",
+    "file": "assets/9abfc027c7fb9619.jpg",
+    "source": "https://byumbadiocese.org/work/petit-seminaire-saint-dominique-savio",
+    "original": "https://www.byumbadiocese.org/storage/app/uploads/public/641/841/f4c/641841f4cbfe3659172212.jpg"
   },
   {
     "property": "Grand Séminaire de Kabgayi",
@@ -221,6 +311,60 @@
     "file": "assets/2a7e890d43a2.jpg",
     "source": "https://ceaepsbureautechnique.org/partenaires/grands-et-petits-seminaires",
     "original": "https://ceaepsbureautechnique.org/storage/images/partners//qLqnz9jQTQP0DPc3j7mPdizWWrlDvOnS8JndcRLi.jpg"
+  },
+  {
+    "property": "Grand Séminaire de Rutongo",
+    "file": "assets/e6a3ba70629b02b6.jpg",
+    "source": "https://www.ceaepsbureautechnique.org/partenaires/details/grand-seminaire-rutongo",
+    "original": "https://www.ceaepsbureautechnique.org/storage/images/partners//biM4vMkA7ocIfl8chwmYPoXveI17Sv0RkKai8GiT.jpg"
+  },
+  {
+    "property": "Petit Séminaire Saint Kizito de Zaza",
+    "file": "assets/08b0982f44ddfed3.jpg",
+    "source": "https://www.ceaepsbureautechnique.org/partenaires/details/petit-seminaire-saint-kizito-de-zaza",
+    "original": "https://www.ceaepsbureautechnique.org/storage/images/partners/Y20YjCAvRuuD9iiFjyxLlW75wNyurlC0uleiDBBa.jpg"
+  },
+  {
+    "property": "Petit Séminaire Saint Léon de Kabgayi",
+    "file": "assets/a71b71ab87df006b.jpg",
+    "source": "https://www.ceaepsbureautechnique.org/partenaires/details/petit-seminaire-saint-leon-kabgayi",
+    "original": "https://www.ceaepsbureautechnique.org/storage/images/partners/8HIpdi11H2J5epfoTeqCmSqWbSNdUhjQsGwCCLoG.webp"
+  },
+  {
+    "property": "Petit Séminaire Saint Jean de Nkumba",
+    "file": "assets/44f5a114ef51010c.jpg",
+    "source": "https://ceaepsbureautechnique.org/partenaires/grands-et-petits-seminaires",
+    "original": "https://ceaepsbureautechnique.org/storage/images/partners/qYMC952FUbz5nwa5TzOXhEA6ppfZQHyVzOSPxRZ6.webp"
+  },
+  {
+    "property": "Petit Séminaire Saint Pie X de Nyundo",
+    "file": "assets/da0b347d694670aa.jpg",
+    "source": "https://www.ceaepsbureautechnique.org/partenaires/details/petit-seminaire-st-pie-x-de-nyundo",
+    "original": "https://www.ceaepsbureautechnique.org/storage/images/partners/NerJtZUdl4lAE47gvS9jRkYBxsmfOy5s3VlhRnOW.webp"
+  },
+  {
+    "property": "Petit Séminaire Virgo Fidelis",
+    "file": "assets/f92eada35dd79bff.jpg",
+    "source": "https://www.ceaepsbureautechnique.org/partenaires/details/petit-seminaire-virgo-fidelis",
+    "original": "https://www.ceaepsbureautechnique.org/storage/images/partners/T38J9bUSUv6Vp0qRCIlDWnj1IWF4KAuARqRCXKzc.webp"
+  },
+  {
+    "property": "Saint Ignatius School",
+    "file": "assets/649f646b7fd3671b.jpg",
+    "source": "https://www.thegrace-foundation.com/st-ignatius-school",
+    "original": "https://images.squarespace-cdn.com/content/v1/5367dcf9e4b043dbe02a619a/1482453630054-LVZYE7PMHWMZP2J4B7XG/20160517_080336-2.jpg"
+  },
+  {
+    "property": "Saint Ignatius School",
+    "file": "assets/cfc944c06b4735b4.jpg",
+    "source": "https://www.thegrace-foundation.com/st-ignatius-school",
+    "original": "https://images.squarespace-cdn.com/content/v1/5367dcf9e4b043dbe02a619a/1482942039131-8AQDDB8J2JBJYO6ELTXA/DSC_0016.JPG"
+  },
+  {
+    "property": "Ruli Higher Institute of Health Sainte Rose de Lima",
+    "file": "assets/141e06d8763db66d.jpg",
+    "source": "https://www.ceaepsbureautechnique.org/partenaires/details/ruli-university",
+    "original": "https://www.ceaepsbureautechnique.org/storage/images/partners//VYqtG5K1xwKKn1jOFUMLYjC4mZYiA9SqdbCTEYt5.jpg"
   },
   {
     "property": "Don Bosco Rango TVET and Retreat House",
